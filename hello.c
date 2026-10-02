@@ -4,7 +4,7 @@ int main(void)
 {
     /*
      * TODO: stampa esattamente:
-     * Hello, computational physics!
+     printf(" Hello, computational physics!")
      * seguito da una nuova riga.
      */
 
