@@ -13,23 +13,27 @@ saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione:gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
+./hello
 
-Comando di esecuzione e risultato osservato:
+Comando di esecuzione e risultato osservato: studente@pc1:~/esercitazione-0-template$ gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
+./hello
+ Hello, computational physics!
+
 
 Che cosa ho capito su sorgente ed eseguibile:
 
 Output richiesto e comportamento del programma prima della modifica:
 
-Esito dopo la modifica e spiegazione della correzione:
+Esito dopo la modifica e spiegazione della correzione: Tutto a posto 
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché: readme.md, osservazioni.md, eco.c,hello.c nel repository. Nel commit secondo me stanno gli stessi file dal repository 
 
 Come ho verificato che la versione provata sia presente su GitHub:
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:Non serve perche gia ho clonato 
 
 ## Step 2 — Eco: prima prova
 
